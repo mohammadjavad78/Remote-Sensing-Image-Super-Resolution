@@ -1,0 +1,14 @@
+batch_size : 16
+lr : 0.0005
+betas0 : 0.9
+betas1 : 0.999
+step_size : 5
+gamma : 0.68
+epochs : 16
+save_step : 2
+dataset_saved : True
+pretrained : True
+model_name : train_state_lr5e_4.pt
+train_res_path : ./TrainedModels
+dataset_path : ./datasets
+saved_dataset_path : ./SavedDatasets
